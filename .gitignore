@@ -2,7 +2,8 @@
 
 Binaries/*
 DerivedDataCache/
-Intermediate/*
+Intermediate/Build/*
+Intermediate/ProjectFiles/obj/*
 Plugins/*/*/Binaries/
 Plugins/*/*/Intermediate/
 Programs/UnrealHeaderTool/
@@ -24,3 +25,4 @@ Content/Textures/*
 *.sdf
 *.suo
 *.*.suo
+*.bin

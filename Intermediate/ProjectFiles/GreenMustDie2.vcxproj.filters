@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GreenMustDie2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8913FB93-4732-4050-9E17-9B60663AAE42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GreenMustDie2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GreenMustDie2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{01761AA0-5CEE-4FDA-BCDE-CFE161BE1494}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GreenMustDie2">
+      <UniqueIdentifier>{AE60A18E-A53A-4696-96A3-8BE4DBF65379}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GreenMustDie2\GreenMustDie2.Build.cs">
+      <Filter>Source\GreenMustDie2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GreenMustDie2\GreenMustDie2.cpp">
+      <Filter>Source\GreenMustDie2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GreenMustDie2\GreenMustDie2.h">
+      <Filter>Source\GreenMustDie2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GreenMustDie2\GreenPees.cpp">
+      <Filter>Source\GreenMustDie2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GreenMustDie2\GreenPees.h">
+      <Filter>Source\GreenMustDie2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GreenMustDie2\PathNode.cpp">
+      <Filter>Source\GreenMustDie2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GreenMustDie2\PathNode.h">
+      <Filter>Source\GreenMustDie2</Filter>
+    </ClInclude>
+    <Filter Include="Source\GreenMustDie2\Resources">
+      <UniqueIdentifier>{B4E14183-227A-4B28-8D5B-2BBB0E194094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GreenMustDie2\Resources\Windows">
+      <UniqueIdentifier>{23F4D00E-0454-496F-B788-C07F463771FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GreenMustDie2\Resources\Windows\GreenMustDie2.ico">
+      <Filter>Source\GreenMustDie2\Resources\Windows</Filter>
+    </None>
+    <ResourceCompile Include="..\..\Source\GreenMustDie2\Resources\Windows\GreenMustDie2.rc">
+      <Filter>Source\GreenMustDie2\Resources\Windows</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
