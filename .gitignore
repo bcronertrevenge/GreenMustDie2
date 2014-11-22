@@ -1,0 +1,25 @@
+# git ignore file
+
+Binaries/*
+DerivedDataCache/
+Intermediate/*
+Plugins/*/*/Binaries/
+Plugins/*/*/Intermediate/
+Programs/UnrealHeaderTool/
+Programs/UnrealPak/
+Saved/*
+Shaders/Binaries/
+Source/*/*/*/obj/
+Source/*/*/obj/
+Source/*/obj/
+<<<<<<< HEAD
+Content/StarterContent/*
+
+=======
+Content/*
+>>>>>>> 5be41c3... Ajout de content dans les ignore
+
+*.opensdf
+*.sdf
+*.suo
+*.*.suo
