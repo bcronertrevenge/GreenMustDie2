@@ -12,12 +12,14 @@ Shaders/Binaries/
 Source/*/*/*/obj/
 Source/*/*/obj/
 Source/*/obj/
-<<<<<<< HEAD
 Content/StarterContent/*
-
-=======
-Content/*
->>>>>>> 5be41c3... Ajout de content dans les ignore
+Content/Animations/*
+Content/Audio/*
+Content/Blueprints/*
+Content/Character/*
+Content/Meshes/*
+Content/StarterContent/*
+Content/Textures/*
 
 *.opensdf
 *.sdf
